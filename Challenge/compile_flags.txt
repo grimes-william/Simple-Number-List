@@ -1,0 +1,11 @@
+-IC:\Users\grime\Downloads\Section-9-Controling-Program-Flow-Source-code\Section9\Challenge
+-Ic:\mingw64\include\c++\11.3.0
+-Ic:\mingw64\include\c++\11.3.0\x86_64-w64-mingw32
+-Ic:\mingw64\include\c++\11.3.0\backward
+-Ic:\mingw64\lib\gcc\x86_64-w64-mingw32\11.3.0\include
+-Ic:\mingw64\include
+-Ic:\mingw64\lib\gcc\x86_64-w64-mingw32\11.3.0\include-fixed
+-Ic:\mingw64\x86_64-w64-mingw32\include
+-std=c++20
+-target
+x86_64-w64-mingw32
